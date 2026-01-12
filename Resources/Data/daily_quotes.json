@@ -1,0 +1,1626 @@
+{
+  "version": "1.0",
+  "language": "hr",
+  "categories": [
+    {
+      "id": "ljubav",
+      "title": "Ljubav",
+      "quotes": [
+        {
+          "book": "Ivan",
+          "chapter": 3,
+          "verse": 16
+        },
+        {
+          "book": "1. Korinćanima",
+          "chapter": 13,
+          "verse": 4
+        },
+        {
+          "book": "1. Korinćanima",
+          "chapter": 13,
+          "verse": 5
+        },
+        {
+          "book": "1. Korinćanima",
+          "chapter": 13,
+          "verse": 6
+        },
+        {
+          "book": "1. Korinćanima",
+          "chapter": 13,
+          "verse": 7
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 5,
+          "verse": 8
+        },
+        {
+          "book": "1. Ivanova",
+          "chapter": 4,
+          "verse": 8
+        },
+        {
+          "book": "1. Ivanova",
+          "chapter": 4,
+          "verse": 9
+        },
+        {
+          "book": "1. Ivanova",
+          "chapter": 4,
+          "verse": 10
+        },
+        {
+          "book": "Ivan",
+          "chapter": 15,
+          "verse": 12
+        },
+        {
+          "book": "Ivan",
+          "chapter": 15,
+          "verse": 13
+        },
+        {
+          "book": "Efežanima",
+          "chapter": 5,
+          "verse": 2
+        },
+        {
+          "book": "Kološanima",
+          "chapter": 3,
+          "verse": 14
+        },
+        {
+          "book": "Psalam",
+          "chapter": 136,
+          "verse": 1
+        },
+        {
+          "book": "Psalam",
+          "chapter": 36,
+          "verse": 6
+        }
+      ]
+    },
+    {
+      "id": "vjera",
+      "title": "Vjera",
+      "quotes": [
+        {
+          "book": "Hebrejima",
+          "chapter": 11,
+          "verse": 1
+        },
+        {
+          "book": "Hebrejima",
+          "chapter": 11,
+          "verse": 6
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 10,
+          "verse": 17
+        },
+        {
+          "book": "Matej",
+          "chapter": 17,
+          "verse": 20
+        },
+        {
+          "book": "Marko",
+          "chapter": 11,
+          "verse": 22
+        },
+        {
+          "book": "Marko",
+          "chapter": 11,
+          "verse": 23
+        },
+        {
+          "book": "Marko",
+          "chapter": 11,
+          "verse": 24
+        },
+        {
+          "book": "Psalam",
+          "chapter": 37,
+          "verse": 5
+        },
+        {
+          "book": "Psalam",
+          "chapter": 56,
+          "verse": 4
+        },
+        {
+          "book": "Izreke",
+          "chapter": 3,
+          "verse": 5
+        },
+        {
+          "book": "Izreke",
+          "chapter": 3,
+          "verse": 6
+        },
+        {
+          "book": "2. Korinćanima",
+          "chapter": 5,
+          "verse": 7
+        },
+        {
+          "book": "Galaćanima",
+          "chapter": 2,
+          "verse": 20
+        },
+        {
+          "book": "Jakovljeva",
+          "chapter": 1,
+          "verse": 6
+        },
+        {
+          "book": "Luka",
+          "chapter": 1,
+          "verse": 37
+        }
+      ]
+    },
+    {
+      "id": "nada",
+      "title": "Nada",
+      "quotes": [
+        {
+          "book": "Jeremija",
+          "chapter": 29,
+          "verse": 11
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 15,
+          "verse": 13
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 8,
+          "verse": 24
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 8,
+          "verse": 25
+        },
+        {
+          "book": "Psalam",
+          "chapter": 42,
+          "verse": 12
+        },
+        {
+          "book": "Psalam",
+          "chapter": 71,
+          "verse": 14
+        },
+        {
+          "book": "Psalam",
+          "chapter": 130,
+          "verse": 5
+        },
+        {
+          "book": "Hebrejima",
+          "chapter": 6,
+          "verse": 19
+        },
+        {
+          "book": "1. Petrova",
+          "chapter": 1,
+          "verse": 3
+        },
+        {
+          "book": "Otkrivenje",
+          "chapter": 21,
+          "verse": 4
+        },
+        {
+          "book": "Otkrivenje",
+          "chapter": 22,
+          "verse": 5
+        },
+        {
+          "book": "Izaija",
+          "chapter": 40,
+          "verse": 31
+        },
+        {
+          "book": "Izaija",
+          "chapter": 43,
+          "verse": 2
+        },
+        {
+          "book": "Tužaljke",
+          "chapter": 3,
+          "verse": 31
+        },
+        {
+          "book": "Titu",
+          "chapter": 2,
+          "verse": 13
+        }
+      ]
+    },
+    {
+      "id": "snaga",
+      "title": "Snaga",
+      "quotes": [
+        {
+          "book": "Izaija",
+          "chapter": 40,
+          "verse": 31
+        },
+        {
+          "book": "Filipljanima",
+          "chapter": 4,
+          "verse": 13
+        },
+        {
+          "book": "Jošua",
+          "chapter": 1,
+          "verse": 9
+        },
+        {
+          "book": "Psalam",
+          "chapter": 46,
+          "verse": 2
+        },
+        {
+          "book": "Psalam",
+          "chapter": 27,
+          "verse": 1
+        },
+        {
+          "book": "Psalam",
+          "chapter": 28,
+          "verse": 7
+        },
+        {
+          "book": "Psalam",
+          "chapter": 18,
+          "verse": 33
+        },
+        {
+          "book": "2. Timoteju",
+          "chapter": 1,
+          "verse": 7
+        },
+        {
+          "book": "Nehemija",
+          "chapter": 8,
+          "verse": 10
+        },
+        {
+          "book": "Izaija",
+          "chapter": 41,
+          "verse": 10
+        },
+        {
+          "book": "Ponovljeni zakon",
+          "chapter": 31,
+          "verse": 6
+        },
+        {
+          "book": "1. Korinćanima",
+          "chapter": 16,
+          "verse": 13
+        },
+        {
+          "book": "Efežanima",
+          "chapter": 6,
+          "verse": 10
+        },
+        {
+          "book": "Psalam",
+          "chapter": 118,
+          "verse": 14
+        },
+        {
+          "book": "Habakuk",
+          "chapter": 3,
+          "verse": 19
+        }
+      ]
+    },
+    {
+      "id": "utjeha",
+      "title": "Utjeha",
+      "quotes": [
+        {
+          "book": "Psalam",
+          "chapter": 34,
+          "verse": 19
+        },
+        {
+          "book": "Psalam",
+          "chapter": 147,
+          "verse": 3
+        },
+        {
+          "book": "Matej",
+          "chapter": 11,
+          "verse": 28
+        },
+        {
+          "book": "Ivan",
+          "chapter": 14,
+          "verse": 27
+        },
+        {
+          "book": "2. Korinćanima",
+          "chapter": 1,
+          "verse": 3
+        },
+        {
+          "book": "2. Korinćanima",
+          "chapter": 1,
+          "verse": 4
+        },
+        {
+          "book": "Psalam",
+          "chapter": 66,
+          "verse": 20
+        },
+        {
+          "book": "Izaija",
+          "chapter": 66,
+          "verse": 13
+        },
+        {
+          "book": "Otkrivenje",
+          "chapter": 7,
+          "verse": 17
+        },
+        {
+          "book": "Psalam",
+          "chapter": 23,
+          "verse": 4
+        },
+        {
+          "book": "Tužaljke",
+          "chapter": 3,
+          "verse": 22
+        },
+        {
+          "book": "Psalam",
+          "chapter": 55,
+          "verse": 23
+        },
+        {
+          "book": "1. Petrova",
+          "chapter": 5,
+          "verse": 7
+        },
+        {
+          "book": "Izaija",
+          "chapter": 49,
+          "verse": 13
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 8,
+          "verse": 18
+        }
+      ]
+    },
+    {
+      "id": "obnova",
+      "title": "Obnova",
+      "quotes": [
+        {
+          "book": "2. Korinćanima",
+          "chapter": 5,
+          "verse": 17
+        },
+        {
+          "book": "Izaija",
+          "chapter": 43,
+          "verse": 19
+        },
+        {
+          "book": "Otkrivenje",
+          "chapter": 21,
+          "verse": 5
+        },
+        {
+          "book": "Ezekiel",
+          "chapter": 36,
+          "verse": 26
+        },
+        {
+          "book": "Psalam",
+          "chapter": 51,
+          "verse": 12
+        },
+        {
+          "book": "Joel",
+          "chapter": 2,
+          "verse": 25
+        },
+        {
+          "book": "Izaija",
+          "chapter": 61,
+          "verse": 3
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 12,
+          "verse": 2
+        },
+        {
+          "book": "Hebrejima",
+          "chapter": 10,
+          "verse": 22
+        },
+        {
+          "book": "Kološanima",
+          "chapter": 3,
+          "verse": 10
+        },
+        {
+          "book": "Efesžanima",
+          "chapter": 4,
+          "verse": 23
+        },
+        {
+          "book": "Psalam",
+          "chapter": 40,
+          "verse": 4
+        },
+        {
+          "book": "Jeremija",
+          "chapter": 31,
+          "verse": 25
+        },
+        {
+          "book": "1. Petrova",
+          "chapter": 1,
+          "verse": 23
+        },
+        {
+          "book": "Izaija",
+          "chapter": 44,
+          "verse": 22
+        }
+      ]
+    },
+    {
+      "id": "pravda",
+      "title": "Pravda",
+      "quotes": [
+        {
+          "book": "Mihej",
+          "chapter": 6,
+          "verse": 8
+        },
+        {
+          "book": "Psalam",
+          "chapter": 33,
+          "verse": 5
+        },
+        {
+          "book": "Amos",
+          "chapter": 5,
+          "verse": 24
+        },
+        {
+          "book": "Izreke",
+          "chapter": 21,
+          "verse": 3
+        },
+        {
+          "book": "Ivan",
+          "chapter": 8,
+          "verse": 32
+        },
+        {
+          "book": "Izaija",
+          "chapter": 1,
+          "verse": 17
+        },
+        {
+          "book": "Psalam",
+          "chapter": 82,
+          "verse": 3
+        },
+        {
+          "book": "Psalam",
+          "chapter": 106,
+          "verse": 3
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 12,
+          "verse": 17
+        },
+        {
+          "book": "Izreke",
+          "chapter": 11,
+          "verse": 1
+        },
+        {
+          "book": "Izreke",
+          "chapter": 20,
+          "verse": 23
+        },
+        {
+          "book": "Izaija",
+          "chapter": 56,
+          "verse": 1
+        },
+        {
+          "book": "Zaharija",
+          "chapter": 7,
+          "verse": 9
+        },
+        {
+          "book": "Jakovljeva",
+          "chapter": 1,
+          "verse": 20
+        },
+        {
+          "book": "Matej",
+          "chapter": 5,
+          "verse": 6
+        }
+      ]
+    },
+    {
+      "id": "mudrost",
+      "title": "Mudrost",
+      "quotes": [
+        {
+          "book": "Izreke",
+          "chapter": 3,
+          "verse": 5
+        },
+        {
+          "book": "Izreke",
+          "chapter": 4,
+          "verse": 7
+        },
+        {
+          "book": "Jakovljeva",
+          "chapter": 1,
+          "verse": 5
+        },
+        {
+          "book": "Psalam",
+          "chapter": 119,
+          "verse": 105
+        },
+        {
+          "book": "Propovjednik",
+          "chapter": 7,
+          "verse": 12
+        },
+        {
+          "book": "Izreke",
+          "chapter": 9,
+          "verse": 10
+        },
+        {
+          "book": "Psalam",
+          "chapter": 111,
+          "verse": 10
+        },
+        {
+          "book": "Kološanima",
+          "chapter": 2,
+          "verse": 3
+        },
+        {
+          "book": "Izreke",
+          "chapter": 2,
+          "verse": 6
+        },
+        {
+          "book": "Izreke",
+          "chapter": 16,
+          "verse": 16
+        },
+        {
+          "book": "Propovjednik",
+          "chapter": 2,
+          "verse": 26
+        },
+        {
+          "book": "Psalam",
+          "chapter": 90,
+          "verse": 12
+        },
+        {
+          "book": "Luka",
+          "chapter": 2,
+          "verse": 52
+        },
+        {
+          "book": "1. Korinćanima",
+          "chapter": 1,
+          "verse": 30
+        },
+        {
+          "book": "Job",
+          "chapter": 28,
+          "verse": 28
+        }
+      ]
+    },
+    {
+      "id": "spasenje",
+      "title": "Spasenje",
+      "quotes": [
+        {
+          "book": "Rimljanima",
+          "chapter": 6,
+          "verse": 23
+        },
+        {
+          "book": "Ivan",
+          "chapter": 14,
+          "verse": 6
+        },
+        {
+          "book": "Djela",
+          "chapter": 4,
+          "verse": 12
+        },
+        {
+          "book": "Efežanima",
+          "chapter": 2,
+          "verse": 8
+        },
+        {
+          "book": "Efežanima",
+          "chapter": 2,
+          "verse": 9
+        },
+        {
+          "book": "Titu",
+          "chapter": 3,
+          "verse": 5
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 5,
+          "verse": 1
+        },
+        {
+          "book": "1. Ivanova",
+          "chapter": 5,
+          "verse": 11
+        },
+        {
+          "book": "1. Ivanova",
+          "chapter": 5,
+          "verse": 12
+        },
+        {
+          "book": "Ivan",
+          "chapter": 3,
+          "verse": 17
+        },
+        {
+          "book": "1. Timoteju",
+          "chapter": 2,
+          "verse": 5
+        },
+        {
+          "book": "Hebrejima",
+          "chapter": 7,
+          "verse": 25
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 10,
+          "verse": 9
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 10,
+          "verse": 10
+        },
+        {
+          "book": "Ivan",
+          "chapter": 5,
+          "verse": 24
+        }
+      ]
+    },
+    {
+      "id": "molitva",
+      "title": "Molitva",
+      "quotes": [
+        {
+          "book": "Matej",
+          "chapter": 7,
+          "verse": 7
+        },
+        {
+          "book": "Matej",
+          "chapter": 7,
+          "verse": 8
+        },
+        {
+          "book": "Matej",
+          "chapter": 7,
+          "verse": 9
+        },
+        {
+          "book": "Luka",
+          "chapter": 11,
+          "verse": 9
+        },
+        {
+          "book": "Luka",
+          "chapter": 11,
+          "verse": 10
+        },
+        {
+          "book": "Filipljanima",
+          "chapter": 4,
+          "verse": 6
+        },
+        {
+          "book": "1. Solunjanima",
+          "chapter": 5,
+          "verse": 17
+        },
+        {
+          "book": "Psalam",
+          "chapter": 145,
+          "verse": 18
+        },
+        {
+          "book": "Psalam",
+          "chapter": 34,
+          "verse": 18
+        },
+        {
+          "book": "Jeremija",
+          "chapter": 33,
+          "verse": 3
+        },
+        {
+          "book": "1. Ivanova",
+          "chapter": 5,
+          "verse": 14
+        },
+        {
+          "book": "Marko",
+          "chapter": 11,
+          "verse": 24
+        },
+        {
+          "book": "Jakovljeva",
+          "chapter": 5,
+          "verse": 16
+        },
+        {
+          "book": "Kološanima",
+          "chapter": 4,
+          "verse": 2
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 12,
+          "verse": 12
+        }
+      ]
+    },
+    {
+      "id": "mir",
+      "title": "Mir",
+      "quotes": [
+        {
+          "book": "Ivan",
+          "chapter": 14,
+          "verse": 27
+        },
+        {
+          "book": "Ivan",
+          "chapter": 16,
+          "verse": 33
+        },
+        {
+          "book": "Filipljanima",
+          "chapter": 4,
+          "verse": 7
+        },
+        {
+          "book": "Psalam",
+          "chapter": 29,
+          "verse": 11
+        },
+        {
+          "book": "Psalam",
+          "chapter": 4,
+          "verse": 9
+        },
+        {
+          "book": "Izaija",
+          "chapter": 26,
+          "verse": 3
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 12,
+          "verse": 18
+        },
+        {
+          "book": "Kološanima",
+          "chapter": 3,
+          "verse": 15
+        },
+        {
+          "book": "2. Solunjanima",
+          "chapter": 3,
+          "verse": 16
+        },
+        {
+          "book": "Psalam",
+          "chapter": 85,
+          "verse": 9
+        },
+        {
+          "book": "Izaija",
+          "chapter": 9,
+          "verse": 6
+        },
+        {
+          "book": "Psalam",
+          "chapter": 119,
+          "verse": 165
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 15,
+          "verse": 33
+        },
+        {
+          "book": "Hebrejima",
+          "chapter": 12,
+          "verse": 14
+        },
+        {
+          "book": "Psalam",
+          "chapter": 37,
+          "verse": 37
+        }
+      ]
+    },
+    {
+      "id": "obitelj",
+      "title": "Obitelj",
+      "quotes": [
+        {
+          "book": "Jošua",
+          "chapter": 24,
+          "verse": 15
+        },
+        {
+          "book": "Psalam",
+          "chapter": 127,
+          "verse": 1
+        },
+        {
+          "book": "Psalam",
+          "chapter": 128,
+          "verse": 1
+        },
+        {
+          "book": "Efežanima",
+          "chapter": 6,
+          "verse": 1
+        },
+        {
+          "book": "Efežanima",
+          "chapter": 6,
+          "verse": 2
+        },
+        {
+          "book": "Efežanima",
+          "chapter": 6,
+          "verse": 3
+        },
+        {
+          "book": "Kološanima",
+          "chapter": 3,
+          "verse": 20
+        },
+        {
+          "book": "Izreke",
+          "chapter": 22,
+          "verse": 6
+        },
+        {
+          "book": "Izreke",
+          "chapter": 17,
+          "verse": 6
+        },
+        {
+          "book": "Postanak",
+          "chapter": 2,
+          "verse": 24
+        },
+        {
+          "book": "1. Timoteju",
+          "chapter": 5,
+          "verse": 8
+        },
+        {
+          "book": "Psalam",
+          "chapter": 103,
+          "verse": 17
+        },
+        {
+          "book": "Izreke",
+          "chapter": 31,
+          "verse": 28
+        },
+        {
+          "book": "Psalam",
+          "chapter": 68,
+          "verse": 6
+        },
+        {
+          "book": "Malakija",
+          "chapter": 4,
+          "verse": 6
+        }
+      ]
+    },
+    {
+      "id": "strpljenje",
+      "title": "Strpljenje",
+      "quotes": [
+        {
+          "book": "Rimljanima",
+          "chapter": 12,
+          "verse": 12
+        },
+        {
+          "book": "Jakovljeva",
+          "chapter": 5,
+          "verse": 7
+        },
+        {
+          "book": "Jakovljeva",
+          "chapter": 5,
+          "verse": 8
+        },
+        {
+          "book": "Propovjednik",
+          "chapter": 7,
+          "verse": 8
+        },
+        {
+          "book": "Psalam",
+          "chapter": 40,
+          "verse": 2
+        },
+        {
+          "book": "Psalam",
+          "chapter": 27,
+          "verse": 14
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 8,
+          "verse": 25
+        },
+        {
+          "book": "Hebrejima",
+          "chapter": 6,
+          "verse": 12
+        },
+        {
+          "book": "2. Petrova",
+          "chapter": 3,
+          "verse": 9
+        },
+        {
+          "book": "Luka",
+          "chapter": 21,
+          "verse": 19
+        },
+        {
+          "book": "Galaćanima",
+          "chapter": 6,
+          "verse": 9
+        },
+        {
+          "book": "Kološanima",
+          "chapter": 1,
+          "verse": 11
+        },
+        {
+          "book": "Psalam",
+          "chapter": 37,
+          "verse": 7
+        },
+        {
+          "book": "Izreke",
+          "chapter": 14,
+          "verse": 29
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 15,
+          "verse": 4
+        }
+      ]
+    },
+    {
+      "id": "ustranost",
+      "title": "Ustranost",
+      "quotes": [
+        {
+          "book": "Hebrejima",
+          "chapter": 12,
+          "verse": 11
+        },
+        {
+          "book": "Galaćanima",
+          "chapter": 6,
+          "verse": 9
+        },
+        {
+          "book": "Jakovljeva",
+          "chapter": 1,
+          "verse": 12
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 5,
+          "verse": 3
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 5,
+          "verse": 4
+        },
+        {
+          "book": "1. Korinćanima",
+          "chapter": 15,
+          "verse": 58
+        },
+        {
+          "book": "2. Timoteju",
+          "chapter": 4,
+          "verse": 7
+        },
+        {
+          "book": "Filipljanima",
+          "chapter": 3,
+          "verse": 14
+        },
+        {
+          "book": "Hebrejima",
+          "chapter": 10,
+          "verse": 36
+        },
+        {
+          "book": "Otkrivenje",
+          "chapter": 2,
+          "verse": 10
+        },
+        {
+          "book": "Psalam",
+          "chapter": 66,
+          "verse": 9
+        },
+        {
+          "book": "Luka",
+          "chapter": 9,
+          "verse": 62
+        },
+        {
+          "book": "Izreke",
+          "chapter": 24,
+          "verse": 16
+        },
+        {
+          "book": "Psalam",
+          "chapter": 125,
+          "verse": 1
+        },
+        {
+          "book": "Job",
+          "chapter": 17,
+          "verse": 9
+        }
+      ]
+    },
+    {
+      "id": "rijec_bozja",
+      "title": "Rijec_bozja",
+      "quotes": [
+        {
+          "book": "Hebrejima",
+          "chapter": 4,
+          "verse": 12
+        },
+        {
+          "book": "Psalam",
+          "chapter": 119,
+          "verse": 160
+        },
+        {
+          "book": "2. Timoteju",
+          "chapter": 3,
+          "verse": 16
+        },
+        {
+          "book": "Matej",
+          "chapter": 4,
+          "verse": 4
+        },
+        {
+          "book": "Izaija",
+          "chapter": 55,
+          "verse": 11
+        },
+        {
+          "book": "Psalam",
+          "chapter": 119,
+          "verse": 105
+        },
+        {
+          "book": "Luka",
+          "chapter": 11,
+          "verse": 28
+        },
+        {
+          "book": "Kološanima",
+          "chapter": 3,
+          "verse": 16
+        },
+        {
+          "book": "Ivan",
+          "chapter": 1,
+          "verse": 1
+        },
+        {
+          "book": "Ivan",
+          "chapter": 1,
+          "verse": 14
+        },
+        {
+          "book": "Jakovljeva",
+          "chapter": 1,
+          "verse": 22
+        },
+        {
+          "book": "Psalam",
+          "chapter": 19,
+          "verse": 8
+        },
+        {
+          "book": "Psalam",
+          "chapter": 33,
+          "verse": 4
+        },
+        {
+          "book": "Izreke",
+          "chapter": 30,
+          "verse": 5
+        },
+        {
+          "book": "Otkrivenje",
+          "chapter": 1,
+          "verse": 3
+        }
+      ]
+    },
+    {
+      "id": "zahvalnost",
+      "title": "Zahvalnost",
+      "quotes": [
+        {
+          "book": "1. Solunjanima",
+          "chapter": 5,
+          "verse": 18
+        },
+        {
+          "book": "Psalam",
+          "chapter": 107,
+          "verse": 1
+        },
+        {
+          "book": "Psalam",
+          "chapter": 136,
+          "verse": 1
+        },
+        {
+          "book": "Kološanima",
+          "chapter": 3,
+          "verse": 17
+        },
+        {
+          "book": "Filipljanima",
+          "chapter": 4,
+          "verse": 6
+        },
+        {
+          "book": "Psalam",
+          "chapter": 95,
+          "verse": 2
+        },
+        {
+          "book": "Hebrejima",
+          "chapter": 12,
+          "verse": 28
+        },
+        {
+          "book": "Psalam",
+          "chapter": 9,
+          "verse": 2
+        },
+        {
+          "book": "Psalam",
+          "chapter": 50,
+          "verse": 23
+        },
+        {
+          "book": "Efežanima",
+          "chapter": 5,
+          "verse": 20
+        },
+        {
+          "book": "Psalam",
+          "chapter": 118,
+          "verse": 24
+        },
+        {
+          "book": "Psalam",
+          "chapter": 28,
+          "verse": 7
+        },
+        {
+          "book": "2. Korinćanima",
+          "chapter": 9,
+          "verse": 15
+        },
+        {
+          "book": "Psalam",
+          "chapter": 69,
+          "verse": 31
+        },
+        {
+          "book": "Psalam",
+          "chapter": 103,
+          "verse": 2
+        }
+      ]
+    },
+    {
+      "id": "tjeskoba",
+      "title": "Tjeskoba",
+      "quotes": [
+        {
+          "book": "Psalam",
+          "chapter": 56,
+          "verse": 4
+        },
+        {
+          "book": "Izaija",
+          "chapter": 41,
+          "verse": 10
+        },
+        {
+          "book": "Ivan",
+          "chapter": 14,
+          "verse": 1
+        },
+        {
+          "book": "Psalam",
+          "chapter": 94,
+          "verse": 19
+        },
+        {
+          "book": "1. Petrova",
+          "chapter": 5,
+          "verse": 7
+        },
+        {
+          "book": "Psalam",
+          "chapter": 34,
+          "verse": 5
+        },
+        {
+          "book": "Psalam",
+          "chapter": 27,
+          "verse": 3
+        },
+        {
+          "book": "Psalam",
+          "chapter": 61,
+          "verse": 3
+        },
+        {
+          "book": "Psalam",
+          "chapter": 91,
+          "verse": 2
+        },
+        {
+          "book": "Psalam",
+          "chapter": 55,
+          "verse": 5
+        },
+        {
+          "book": "Psalam",
+          "chapter": 138,
+          "verse": 3
+        },
+        {
+          "book": "Izreke",
+          "chapter": 12,
+          "verse": 25
+        },
+        {
+          "book": "Psalam",
+          "chapter": 4,
+          "verse": 8
+        },
+        {
+          "book": "Psalam",
+          "chapter": 112,
+          "verse": 7
+        },
+        {
+          "book": "2. Timoteju",
+          "chapter": 1,
+          "verse": 7
+        }
+      ]
+    },
+    {
+      "id": "kraljevstvo",
+      "title": "Kraljevstvo",
+      "quotes": [
+        {
+          "book": "Matej",
+          "chapter": 6,
+          "verse": 33
+        },
+        {
+          "book": "Luka",
+          "chapter": 17,
+          "verse": 21
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 14,
+          "verse": 17
+        },
+        {
+          "book": "Matej",
+          "chapter": 13,
+          "verse": 44
+        },
+        {
+          "book": "Ivan",
+          "chapter": 18,
+          "verse": 36
+        },
+        {
+          "book": "Marko",
+          "chapter": 1,
+          "verse": 15
+        },
+        {
+          "book": "Matej",
+          "chapter": 5,
+          "verse": 3
+        },
+        {
+          "book": "Matej",
+          "chapter": 5,
+          "verse": 10
+        },
+        {
+          "book": "Matej",
+          "chapter": 5,
+          "verse": 20
+        },
+        {
+          "book": "Luka",
+          "chapter": 12,
+          "verse": 32
+        },
+        {
+          "book": "Matej",
+          "chapter": 18,
+          "verse": 3
+        },
+        {
+          "book": "Otkrivenje",
+          "chapter": 11,
+          "verse": 15
+        },
+        {
+          "book": "Kološanima",
+          "chapter": 1,
+          "verse": 13
+        },
+        {
+          "book": "Daniel",
+          "chapter": 2,
+          "verse": 44
+        },
+        {
+          "book": "Matej",
+          "chapter": 25,
+          "verse": 34
+        }
+      ]
+    },
+    {
+      "id": "vodstvo",
+      "title": "Vodstvo",
+      "quotes": [
+        {
+          "book": "Psalam",
+          "chapter": 32,
+          "verse": 8
+        },
+        {
+          "book": "Izreke",
+          "chapter": 16,
+          "verse": 9
+        },
+        {
+          "book": "Psalam",
+          "chapter": 25,
+          "verse": 4
+        },
+        {
+          "book": "Izaija",
+          "chapter": 30,
+          "verse": 21
+        },
+        {
+          "book": "Ivan",
+          "chapter": 10,
+          "verse": 3
+        },
+        {
+          "book": "Ivan",
+          "chapter": 10,
+          "verse": 4
+        },
+        {
+          "book": "Psalam",
+          "chapter": 23,
+          "verse": 1
+        },
+        {
+          "book": "Psalam",
+          "chapter": 48,
+          "verse": 15
+        },
+        {
+          "book": "Psalam",
+          "chapter": 143,
+          "verse": 10
+        },
+        {
+          "book": "Izlazak",
+          "chapter": 13,
+          "verse": 21
+        },
+        {
+          "book": "Izlazak",
+          "chapter": 13,
+          "verse": 22
+        },
+        {
+          "book": "Izaija",
+          "chapter": 58,
+          "verse": 11
+        },
+        {
+          "book": "Psalam",
+          "chapter": 73,
+          "verse": 24
+        },
+        {
+          "book": "Psalam",
+          "chapter": 119,
+          "verse": 133
+        },
+        {
+          "book": "Izreke",
+          "chapter": 3,
+          "verse": 6
+        }
+      ]
+    },
+    {
+      "id": "buducnost",
+      "title": "Buducnost",
+      "quotes": [
+        {
+          "book": "Rimljanima",
+          "chapter": 8,
+          "verse": 18
+        },
+        {
+          "book": "Jeremija",
+          "chapter": 33,
+          "verse": 3
+        },
+        {
+          "book": "Psalam",
+          "chapter": 37,
+          "verse": 37
+        },
+        {
+          "book": "Otkrivenje",
+          "chapter": 22,
+          "verse": 5
+        },
+        {
+          "book": "Izaija",
+          "chapter": 65,
+          "verse": 17
+        },
+        {
+          "book": "Otkrivenje",
+          "chapter": 21,
+          "verse": 1
+        },
+        {
+          "book": "Rimljanima",
+          "chapter": 8,
+          "verse": 28
+        },
+        {
+          "book": "Filipljanima",
+          "chapter": 1,
+          "verse": 6
+        },
+        {
+          "book": "1. Korinćanima",
+          "chapter": 2,
+          "verse": 9
+        },
+        {
+          "book": "Psalam",
+          "chapter": 126,
+          "verse": 5
+        },
+        {
+          "book": "Psalam",
+          "chapter": 130,
+          "verse": 7
+        },
+        {
+          "book": "Izaija",
+          "chapter": 60,
+          "verse": 1
+        },
+        {
+          "book": "2. Korinćanima",
+          "chapter": 4,
+          "verse": 17
+        },
+        {
+          "book": "Otkrivenje",
+          "chapter": 21,
+          "verse": 3
+        },
+        {
+          "book": "Otkrivenje",
+          "chapter": 21,
+          "verse": 4
+        }
+      ]
+    }
+  ]
+}
