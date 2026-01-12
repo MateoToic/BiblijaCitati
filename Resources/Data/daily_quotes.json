@@ -7,77 +7,92 @@
       "title": "Ljubav",
       "quotes": [
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 3,
           "verse": 16
         },
         {
-          "book": "1. Korinćanima",
+          "book": "Prva poslanica Korinćanima",
+          "book_abbrev": "1Kor",
           "chapter": 13,
           "verse": 4
         },
         {
-          "book": "1. Korinćanima",
+          "book": "Prva poslanica Korinćanima",
+          "book_abbrev": "1Kor",
           "chapter": 13,
           "verse": 5
         },
         {
-          "book": "1. Korinćanima",
+          "book": "Prva poslanica Korinćanima",
+          "book_abbrev": "1Kor",
           "chapter": 13,
           "verse": 6
         },
         {
-          "book": "1. Korinćanima",
+          "book": "Prva poslanica Korinćanima",
+          "book_abbrev": "1Kor",
           "chapter": 13,
           "verse": 7
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 5,
           "verse": 8
         },
         {
-          "book": "1. Ivanova",
+          "book": "Prva Ivanova poslanica",
+          "book_abbrev": "1Iv",
           "chapter": 4,
           "verse": 8
         },
         {
-          "book": "1. Ivanova",
+          "book": "Prva Ivanova poslanica",
+          "book_abbrev": "1Iv",
           "chapter": 4,
           "verse": 9
         },
         {
-          "book": "1. Ivanova",
+          "book": "Prva Ivanova poslanica",
+          "book_abbrev": "1Iv",
           "chapter": 4,
           "verse": 10
         },
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 15,
           "verse": 12
         },
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 15,
           "verse": 13
         },
         {
-          "book": "Efežanima",
+          "book": "Poslanica Efežanima",
+          "book_abbrev": "Ef",
           "chapter": 5,
           "verse": 2
         },
         {
-          "book": "Kološanima",
+          "book": "Poslanica Kološanima",
+          "book_abbrev": "Kol",
           "chapter": 3,
           "verse": 14
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 136,
           "verse": 1
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 36,
           "verse": 6
         }
@@ -88,77 +103,92 @@
       "title": "Vjera",
       "quotes": [
         {
-          "book": "Hebrejima",
+          "book": "Poslanica Hebrejima",
+          "book_abbrev": "Heb",
           "chapter": 11,
           "verse": 1
         },
         {
-          "book": "Hebrejima",
+          "book": "Poslanica Hebrejima",
+          "book_abbrev": "Heb",
           "chapter": 11,
           "verse": 6
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 10,
           "verse": 17
         },
         {
-          "book": "Matej",
+          "book": "Evanđelje po Mateju",
+          "book_abbrev": "Mt",
           "chapter": 17,
           "verse": 20
         },
         {
-          "book": "Marko",
+          "book": "Evanđelje po Marku",
+          "book_abbrev": "Mk",
           "chapter": 11,
           "verse": 22
         },
         {
-          "book": "Marko",
+          "book": "Evanđelje po Marku",
+          "book_abbrev": "Mk",
           "chapter": 11,
           "verse": 23
         },
         {
-          "book": "Marko",
+          "book": "Evanđelje po Marku",
+          "book_abbrev": "Mk",
           "chapter": 11,
           "verse": 24
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 37,
           "verse": 5
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 56,
           "verse": 4
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 3,
           "verse": 5
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 3,
           "verse": 6
         },
         {
-          "book": "2. Korinćanima",
+          "book": "Druga poslanica Korinćanima",
+          "book_abbrev": "2Kor",
           "chapter": 5,
           "verse": 7
         },
         {
-          "book": "Galaćanima",
+          "book": "Poslanica Galaćanima",
+          "book_abbrev": "Gal",
           "chapter": 2,
           "verse": 20
         },
         {
-          "book": "Jakovljeva",
+          "book": "Jakovljeva poslanica",
+          "book_abbrev": "Jak",
           "chapter": 1,
           "verse": 6
         },
         {
-          "book": "Luka",
+          "book": "Evanđelje po Luki",
+          "book_abbrev": "Lk",
           "chapter": 1,
           "verse": 37
         }
@@ -170,76 +200,91 @@
       "quotes": [
         {
           "book": "Jeremija",
+          "book_abbrev": "Jr",
           "chapter": 29,
           "verse": 11
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 15,
           "verse": 13
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 8,
           "verse": 24
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 8,
           "verse": 25
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 42,
           "verse": 12
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 71,
           "verse": 14
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 130,
           "verse": 5
         },
         {
-          "book": "Hebrejima",
+          "book": "Poslanica Hebrejima",
+          "book_abbrev": "Heb",
           "chapter": 6,
           "verse": 19
         },
         {
-          "book": "1. Petrova",
+          "book": "Prva Petrova poslanica",
+          "book_abbrev": "1Pt",
           "chapter": 1,
           "verse": 3
         },
         {
           "book": "Otkrivenje",
+          "book_abbrev": "Otk",
           "chapter": 21,
           "verse": 4
         },
         {
           "book": "Otkrivenje",
+          "book_abbrev": "Otk",
           "chapter": 22,
           "verse": 5
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 40,
           "verse": 31
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 43,
           "verse": 2
         },
         {
           "book": "Tužaljke",
+          "book_abbrev": "Tuž",
           "chapter": 3,
           "verse": 31
         },
         {
-          "book": "Titu",
+          "book": "Poslanica Titu",
+          "book_abbrev": "Tit",
           "chapter": 2,
           "verse": 13
         }
@@ -251,76 +296,91 @@
       "quotes": [
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 40,
           "verse": 31
         },
         {
-          "book": "Filipljanima",
+          "book": "Poslanica Filipljanima",
+          "book_abbrev": "Fil",
           "chapter": 4,
           "verse": 13
         },
         {
           "book": "Jošua",
+          "book_abbrev": "Još",
           "chapter": 1,
           "verse": 9
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 46,
           "verse": 2
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 27,
           "verse": 1
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 28,
           "verse": 7
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 18,
           "verse": 33
         },
         {
-          "book": "2. Timoteju",
+          "book": "Druga poslanica Timoteju",
+          "book_abbrev": "2Tim",
           "chapter": 1,
           "verse": 7
         },
         {
           "book": "Nehemija",
+          "book_abbrev": "Neh",
           "chapter": 8,
           "verse": 10
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 41,
           "verse": 10
         },
         {
           "book": "Ponovljeni zakon",
+          "book_abbrev": "Pnz",
           "chapter": 31,
           "verse": 6
         },
         {
-          "book": "1. Korinćanima",
+          "book": "Prva poslanica Korinćanima",
+          "book_abbrev": "1Kor",
           "chapter": 16,
           "verse": 13
         },
         {
-          "book": "Efežanima",
+          "book": "Poslanica Efežanima",
+          "book_abbrev": "Ef",
           "chapter": 6,
           "verse": 10
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 118,
           "verse": 14
         },
         {
           "book": "Habakuk",
+          "book_abbrev": "Hab",
           "chapter": 3,
           "verse": 19
         }
@@ -331,77 +391,92 @@
       "title": "Utjeha",
       "quotes": [
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 34,
           "verse": 19
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 147,
           "verse": 3
         },
         {
-          "book": "Matej",
+          "book": "Evanđelje po Mateju",
+          "book_abbrev": "Mt",
           "chapter": 11,
           "verse": 28
         },
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 14,
           "verse": 27
         },
         {
-          "book": "2. Korinćanima",
+          "book": "Druga poslanica Korinćanima",
+          "book_abbrev": "2Kor",
           "chapter": 1,
           "verse": 3
         },
         {
-          "book": "2. Korinćanima",
+          "book": "Druga poslanica Korinćanima",
+          "book_abbrev": "2Kor",
           "chapter": 1,
           "verse": 4
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 66,
           "verse": 20
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 66,
           "verse": 13
         },
         {
           "book": "Otkrivenje",
+          "book_abbrev": "Otk",
           "chapter": 7,
           "verse": 17
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 23,
           "verse": 4
         },
         {
           "book": "Tužaljke",
+          "book_abbrev": "Tuž",
           "chapter": 3,
           "verse": 22
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 55,
           "verse": 23
         },
         {
-          "book": "1. Petrova",
+          "book": "Prva Petrova poslanica",
+          "book_abbrev": "1Pt",
           "chapter": 5,
           "verse": 7
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 49,
           "verse": 13
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 8,
           "verse": 18
         }
@@ -412,77 +487,92 @@
       "title": "Obnova",
       "quotes": [
         {
-          "book": "2. Korinćanima",
+          "book": "Druga poslanica Korinćanima",
+          "book_abbrev": "2Kor",
           "chapter": 5,
           "verse": 17
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 43,
           "verse": 19
         },
         {
           "book": "Otkrivenje",
+          "book_abbrev": "Otk",
           "chapter": 21,
           "verse": 5
         },
         {
           "book": "Ezekiel",
+          "book_abbrev": "Ez",
           "chapter": 36,
           "verse": 26
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 51,
           "verse": 12
         },
         {
           "book": "Joel",
+          "book_abbrev": "Jl",
           "chapter": 2,
           "verse": 25
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 61,
           "verse": 3
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 12,
           "verse": 2
         },
         {
-          "book": "Hebrejima",
+          "book": "Poslanica Hebrejima",
+          "book_abbrev": "Heb",
           "chapter": 10,
           "verse": 22
         },
         {
-          "book": "Kološanima",
+          "book": "Poslanica Kološanima",
+          "book_abbrev": "Kol",
           "chapter": 3,
           "verse": 10
         },
         {
-          "book": "Efesžanima",
+          "book": "Poslanica Efežanima",
+          "book_abbrev": "Ef",
           "chapter": 4,
           "verse": 23
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 40,
           "verse": 4
         },
         {
           "book": "Jeremija",
+          "book_abbrev": "Jr",
           "chapter": 31,
           "verse": 25
         },
         {
-          "book": "1. Petrova",
+          "book": "Prva Petrova poslanica",
+          "book_abbrev": "1Pt",
           "chapter": 1,
           "verse": 23
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 44,
           "verse": 22
         }
@@ -494,76 +584,91 @@
       "quotes": [
         {
           "book": "Mihej",
+          "book_abbrev": "Mih",
           "chapter": 6,
           "verse": 8
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 33,
           "verse": 5
         },
         {
           "book": "Amos",
+          "book_abbrev": "Am",
           "chapter": 5,
           "verse": 24
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 21,
           "verse": 3
         },
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 8,
           "verse": 32
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 1,
           "verse": 17
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 82,
           "verse": 3
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 106,
           "verse": 3
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 12,
           "verse": 17
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 11,
           "verse": 1
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 20,
           "verse": 23
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 56,
           "verse": 1
         },
         {
           "book": "Zaharija",
+          "book_abbrev": "Zah",
           "chapter": 7,
           "verse": 9
         },
         {
-          "book": "Jakovljeva",
+          "book": "Jakovljeva poslanica",
+          "book_abbrev": "Jak",
           "chapter": 1,
           "verse": 20
         },
         {
-          "book": "Matej",
+          "book": "Evanđelje po Mateju",
+          "book_abbrev": "Mt",
           "chapter": 5,
           "verse": 6
         }
@@ -575,76 +680,91 @@
       "quotes": [
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 3,
           "verse": 5
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 4,
           "verse": 7
         },
         {
-          "book": "Jakovljeva",
+          "book": "Jakovljeva poslanica",
+          "book_abbrev": "Jak",
           "chapter": 1,
           "verse": 5
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 119,
           "verse": 105
         },
         {
           "book": "Propovjednik",
+          "book_abbrev": "Prop",
           "chapter": 7,
           "verse": 12
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 9,
           "verse": 10
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 111,
           "verse": 10
         },
         {
-          "book": "Kološanima",
+          "book": "Poslanica Kološanima",
+          "book_abbrev": "Kol",
           "chapter": 2,
           "verse": 3
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 2,
           "verse": 6
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 16,
           "verse": 16
         },
         {
           "book": "Propovjednik",
+          "book_abbrev": "Prop",
           "chapter": 2,
           "verse": 26
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 90,
           "verse": 12
         },
         {
-          "book": "Luka",
+          "book": "Evanđelje po Luki",
+          "book_abbrev": "Lk",
           "chapter": 2,
           "verse": 52
         },
         {
-          "book": "1. Korinćanima",
+          "book": "Prva poslanica Korinćanima",
+          "book_abbrev": "1Kor",
           "chapter": 1,
           "verse": 30
         },
         {
           "book": "Job",
+          "book_abbrev": "Job",
           "chapter": 28,
           "verse": 28
         }
@@ -655,77 +775,92 @@
       "title": "Spasenje",
       "quotes": [
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 6,
           "verse": 23
         },
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 14,
           "verse": 6
         },
         {
-          "book": "Djela",
+          "book": "Djela apostolska",
+          "book_abbrev": "Dj",
           "chapter": 4,
           "verse": 12
         },
         {
-          "book": "Efežanima",
+          "book": "Poslanica Efežanima",
+          "book_abbrev": "Ef",
           "chapter": 2,
           "verse": 8
         },
         {
-          "book": "Efežanima",
+          "book": "Poslanica Efežanima",
+          "book_abbrev": "Ef",
           "chapter": 2,
           "verse": 9
         },
         {
-          "book": "Titu",
+          "book": "Poslanica Titu",
+          "book_abbrev": "Tit",
           "chapter": 3,
           "verse": 5
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 5,
           "verse": 1
         },
         {
-          "book": "1. Ivanova",
+          "book": "Prva Ivanova poslanica",
+          "book_abbrev": "1Iv",
           "chapter": 5,
           "verse": 11
         },
         {
-          "book": "1. Ivanova",
+          "book": "Prva Ivanova poslanica",
+          "book_abbrev": "1Iv",
           "chapter": 5,
           "verse": 12
         },
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 3,
           "verse": 17
         },
         {
-          "book": "1. Timoteju",
+          "book": "Prva poslanica Timoteju",
+          "book_abbrev": "1Tim",
           "chapter": 2,
           "verse": 5
         },
         {
-          "book": "Hebrejima",
+          "book": "Poslanica Hebrejima",
+          "book_abbrev": "Heb",
           "chapter": 7,
           "verse": 25
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 10,
           "verse": 9
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 10,
           "verse": 10
         },
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 5,
           "verse": 24
         }
@@ -736,77 +871,92 @@
       "title": "Molitva",
       "quotes": [
         {
-          "book": "Matej",
+          "book": "Evanđelje po Mateju",
+          "book_abbrev": "Mt",
           "chapter": 7,
           "verse": 7
         },
         {
-          "book": "Matej",
+          "book": "Evanđelje po Mateju",
+          "book_abbrev": "Mt",
           "chapter": 7,
           "verse": 8
         },
         {
-          "book": "Matej",
+          "book": "Evanđelje po Mateju",
+          "book_abbrev": "Mt",
           "chapter": 7,
           "verse": 9
         },
         {
-          "book": "Luka",
+          "book": "Evanđelje po Luki",
+          "book_abbrev": "Lk",
           "chapter": 11,
           "verse": 9
         },
         {
-          "book": "Luka",
+          "book": "Evanđelje po Luki",
+          "book_abbrev": "Lk",
           "chapter": 11,
           "verse": 10
         },
         {
-          "book": "Filipljanima",
+          "book": "Poslanica Filipljanima",
+          "book_abbrev": "Fil",
           "chapter": 4,
           "verse": 6
         },
         {
-          "book": "1. Solunjanima",
+          "book": "Prva poslanica Solunjanima",
+          "book_abbrev": "1Sol",
           "chapter": 5,
           "verse": 17
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 145,
           "verse": 18
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 34,
           "verse": 18
         },
         {
           "book": "Jeremija",
+          "book_abbrev": "Jr",
           "chapter": 33,
           "verse": 3
         },
         {
-          "book": "1. Ivanova",
+          "book": "Prva Ivanova poslanica",
+          "book_abbrev": "1Iv",
           "chapter": 5,
           "verse": 14
         },
         {
-          "book": "Marko",
+          "book": "Evanđelje po Marku",
+          "book_abbrev": "Mk",
           "chapter": 11,
           "verse": 24
         },
         {
-          "book": "Jakovljeva",
+          "book": "Jakovljeva poslanica",
+          "book_abbrev": "Jak",
           "chapter": 5,
           "verse": 16
         },
         {
-          "book": "Kološanima",
+          "book": "Poslanica Kološanima",
+          "book_abbrev": "Kol",
           "chapter": 4,
           "verse": 2
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 12,
           "verse": 12
         }
@@ -817,77 +967,92 @@
       "title": "Mir",
       "quotes": [
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 14,
           "verse": 27
         },
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 16,
           "verse": 33
         },
         {
-          "book": "Filipljanima",
+          "book": "Poslanica Filipljanima",
+          "book_abbrev": "Fil",
           "chapter": 4,
           "verse": 7
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 29,
           "verse": 11
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 4,
           "verse": 9
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 26,
           "verse": 3
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 12,
           "verse": 18
         },
         {
-          "book": "Kološanima",
+          "book": "Poslanica Kološanima",
+          "book_abbrev": "Kol",
           "chapter": 3,
           "verse": 15
         },
         {
-          "book": "2. Solunjanima",
+          "book": "Druga poslanica Solunjanima",
+          "book_abbrev": "2Sol",
           "chapter": 3,
           "verse": 16
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 85,
           "verse": 9
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 9,
           "verse": 6
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 119,
           "verse": 165
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 15,
           "verse": 33
         },
         {
-          "book": "Hebrejima",
+          "book": "Poslanica Hebrejima",
+          "book_abbrev": "Heb",
           "chapter": 12,
           "verse": 14
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 37,
           "verse": 37
         }
@@ -899,76 +1064,91 @@
       "quotes": [
         {
           "book": "Jošua",
+          "book_abbrev": "Još",
           "chapter": 24,
           "verse": 15
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 127,
           "verse": 1
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 128,
           "verse": 1
         },
         {
-          "book": "Efežanima",
+          "book": "Poslanica Efežanima",
+          "book_abbrev": "Ef",
           "chapter": 6,
           "verse": 1
         },
         {
-          "book": "Efežanima",
+          "book": "Poslanica Efežanima",
+          "book_abbrev": "Ef",
           "chapter": 6,
           "verse": 2
         },
         {
-          "book": "Efežanima",
+          "book": "Poslanica Efežanima",
+          "book_abbrev": "Ef",
           "chapter": 6,
           "verse": 3
         },
         {
-          "book": "Kološanima",
+          "book": "Poslanica Kološanima",
+          "book_abbrev": "Kol",
           "chapter": 3,
           "verse": 20
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 22,
           "verse": 6
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 17,
           "verse": 6
         },
         {
           "book": "Postanak",
+          "book_abbrev": "Post",
           "chapter": 2,
           "verse": 24
         },
         {
-          "book": "1. Timoteju",
+          "book": "Prva poslanica Timoteju",
+          "book_abbrev": "1Tim",
           "chapter": 5,
           "verse": 8
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 103,
           "verse": 17
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 31,
           "verse": 28
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 68,
           "verse": 6
         },
         {
           "book": "Malakija",
+          "book_abbrev": "Mal",
           "chapter": 4,
           "verse": 6
         }
@@ -979,77 +1159,92 @@
       "title": "Strpljenje",
       "quotes": [
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 12,
           "verse": 12
         },
         {
-          "book": "Jakovljeva",
+          "book": "Jakovljeva poslanica",
+          "book_abbrev": "Jak",
           "chapter": 5,
           "verse": 7
         },
         {
-          "book": "Jakovljeva",
+          "book": "Jakovljeva poslanica",
+          "book_abbrev": "Jak",
           "chapter": 5,
           "verse": 8
         },
         {
           "book": "Propovjednik",
+          "book_abbrev": "Prop",
           "chapter": 7,
           "verse": 8
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 40,
           "verse": 2
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 27,
           "verse": 14
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 8,
           "verse": 25
         },
         {
-          "book": "Hebrejima",
+          "book": "Poslanica Hebrejima",
+          "book_abbrev": "Heb",
           "chapter": 6,
           "verse": 12
         },
         {
-          "book": "2. Petrova",
+          "book": "Druga Petrova poslanica",
+          "book_abbrev": "2Pt",
           "chapter": 3,
           "verse": 9
         },
         {
-          "book": "Luka",
+          "book": "Evanđelje po Luki",
+          "book_abbrev": "Lk",
           "chapter": 21,
           "verse": 19
         },
         {
-          "book": "Galaćanima",
+          "book": "Poslanica Galaćanima",
+          "book_abbrev": "Gal",
           "chapter": 6,
           "verse": 9
         },
         {
-          "book": "Kološanima",
+          "book": "Poslanica Kološanima",
+          "book_abbrev": "Kol",
           "chapter": 1,
           "verse": 11
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 37,
           "verse": 7
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 14,
           "verse": 29
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 15,
           "verse": 4
         }
@@ -1060,77 +1255,92 @@
       "title": "Ustranost",
       "quotes": [
         {
-          "book": "Hebrejima",
+          "book": "Poslanica Hebrejima",
+          "book_abbrev": "Heb",
           "chapter": 12,
           "verse": 11
         },
         {
-          "book": "Galaćanima",
+          "book": "Poslanica Galaćanima",
+          "book_abbrev": "Gal",
           "chapter": 6,
           "verse": 9
         },
         {
-          "book": "Jakovljeva",
+          "book": "Jakovljeva poslanica",
+          "book_abbrev": "Jak",
           "chapter": 1,
           "verse": 12
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 5,
           "verse": 3
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 5,
           "verse": 4
         },
         {
-          "book": "1. Korinćanima",
+          "book": "Prva poslanica Korinćanima",
+          "book_abbrev": "1Kor",
           "chapter": 15,
           "verse": 58
         },
         {
-          "book": "2. Timoteju",
+          "book": "Druga poslanica Timoteju",
+          "book_abbrev": "2Tim",
           "chapter": 4,
           "verse": 7
         },
         {
-          "book": "Filipljanima",
+          "book": "Poslanica Filipljanima",
+          "book_abbrev": "Fil",
           "chapter": 3,
           "verse": 14
         },
         {
-          "book": "Hebrejima",
+          "book": "Poslanica Hebrejima",
+          "book_abbrev": "Heb",
           "chapter": 10,
           "verse": 36
         },
         {
           "book": "Otkrivenje",
+          "book_abbrev": "Otk",
           "chapter": 2,
           "verse": 10
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 66,
           "verse": 9
         },
         {
-          "book": "Luka",
+          "book": "Evanđelje po Luki",
+          "book_abbrev": "Lk",
           "chapter": 9,
           "verse": 62
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 24,
           "verse": 16
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 125,
           "verse": 1
         },
         {
           "book": "Job",
+          "book_abbrev": "Job",
           "chapter": 17,
           "verse": 9
         }
@@ -1141,77 +1351,92 @@
       "title": "Rijec_bozja",
       "quotes": [
         {
-          "book": "Hebrejima",
+          "book": "Poslanica Hebrejima",
+          "book_abbrev": "Heb",
           "chapter": 4,
           "verse": 12
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 119,
           "verse": 160
         },
         {
-          "book": "2. Timoteju",
+          "book": "Druga poslanica Timoteju",
+          "book_abbrev": "2Tim",
           "chapter": 3,
           "verse": 16
         },
         {
-          "book": "Matej",
+          "book": "Evanđelje po Mateju",
+          "book_abbrev": "Mt",
           "chapter": 4,
           "verse": 4
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 55,
           "verse": 11
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 119,
           "verse": 105
         },
         {
-          "book": "Luka",
+          "book": "Evanđelje po Luki",
+          "book_abbrev": "Lk",
           "chapter": 11,
           "verse": 28
         },
         {
-          "book": "Kološanima",
+          "book": "Poslanica Kološanima",
+          "book_abbrev": "Kol",
           "chapter": 3,
           "verse": 16
         },
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 1,
           "verse": 1
         },
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 1,
           "verse": 14
         },
         {
-          "book": "Jakovljeva",
+          "book": "Jakovljeva poslanica",
+          "book_abbrev": "Jak",
           "chapter": 1,
           "verse": 22
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 19,
           "verse": 8
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 33,
           "verse": 4
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 30,
           "verse": 5
         },
         {
           "book": "Otkrivenje",
+          "book_abbrev": "Otk",
           "chapter": 1,
           "verse": 3
         }
@@ -1222,77 +1447,92 @@
       "title": "Zahvalnost",
       "quotes": [
         {
-          "book": "1. Solunjanima",
+          "book": "Prva poslanica Solunjanima",
+          "book_abbrev": "1Sol",
           "chapter": 5,
           "verse": 18
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 107,
           "verse": 1
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 136,
           "verse": 1
         },
         {
-          "book": "Kološanima",
+          "book": "Poslanica Kološanima",
+          "book_abbrev": "Kol",
           "chapter": 3,
           "verse": 17
         },
         {
-          "book": "Filipljanima",
+          "book": "Poslanica Filipljanima",
+          "book_abbrev": "Fil",
           "chapter": 4,
           "verse": 6
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 95,
           "verse": 2
         },
         {
-          "book": "Hebrejima",
+          "book": "Poslanica Hebrejima",
+          "book_abbrev": "Heb",
           "chapter": 12,
           "verse": 28
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 9,
           "verse": 2
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 50,
           "verse": 23
         },
         {
-          "book": "Efežanima",
+          "book": "Poslanica Efežanima",
+          "book_abbrev": "Ef",
           "chapter": 5,
           "verse": 20
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 118,
           "verse": 24
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 28,
           "verse": 7
         },
         {
-          "book": "2. Korinćanima",
+          "book": "Druga poslanica Korinćanima",
+          "book_abbrev": "2Kor",
           "chapter": 9,
           "verse": 15
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 69,
           "verse": 31
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 103,
           "verse": 2
         }
@@ -1303,77 +1543,92 @@
       "title": "Tjeskoba",
       "quotes": [
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 56,
           "verse": 4
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 41,
           "verse": 10
         },
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 14,
           "verse": 1
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 94,
           "verse": 19
         },
         {
-          "book": "1. Petrova",
+          "book": "Prva Petrova poslanica",
+          "book_abbrev": "1Pt",
           "chapter": 5,
           "verse": 7
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 34,
           "verse": 5
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 27,
           "verse": 3
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 61,
           "verse": 3
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 91,
           "verse": 2
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 55,
           "verse": 5
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 138,
           "verse": 3
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 12,
           "verse": 25
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 4,
           "verse": 8
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 112,
           "verse": 7
         },
         {
-          "book": "2. Timoteju",
+          "book": "Druga poslanica Timoteju",
+          "book_abbrev": "2Tim",
           "chapter": 1,
           "verse": 7
         }
@@ -1384,77 +1639,92 @@
       "title": "Kraljevstvo",
       "quotes": [
         {
-          "book": "Matej",
+          "book": "Evanđelje po Mateju",
+          "book_abbrev": "Mt",
           "chapter": 6,
           "verse": 33
         },
         {
-          "book": "Luka",
+          "book": "Evanđelje po Luki",
+          "book_abbrev": "Lk",
           "chapter": 17,
           "verse": 21
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 14,
           "verse": 17
         },
         {
-          "book": "Matej",
+          "book": "Evanđelje po Mateju",
+          "book_abbrev": "Mt",
           "chapter": 13,
           "verse": 44
         },
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 18,
           "verse": 36
         },
         {
-          "book": "Marko",
+          "book": "Evanđelje po Marku",
+          "book_abbrev": "Mk",
           "chapter": 1,
           "verse": 15
         },
         {
-          "book": "Matej",
+          "book": "Evanđelje po Mateju",
+          "book_abbrev": "Mt",
           "chapter": 5,
           "verse": 3
         },
         {
-          "book": "Matej",
+          "book": "Evanđelje po Mateju",
+          "book_abbrev": "Mt",
           "chapter": 5,
           "verse": 10
         },
         {
-          "book": "Matej",
+          "book": "Evanđelje po Mateju",
+          "book_abbrev": "Mt",
           "chapter": 5,
           "verse": 20
         },
         {
-          "book": "Luka",
+          "book": "Evanđelje po Luki",
+          "book_abbrev": "Lk",
           "chapter": 12,
           "verse": 32
         },
         {
-          "book": "Matej",
+          "book": "Evanđelje po Mateju",
+          "book_abbrev": "Mt",
           "chapter": 18,
           "verse": 3
         },
         {
           "book": "Otkrivenje",
+          "book_abbrev": "Otk",
           "chapter": 11,
           "verse": 15
         },
         {
-          "book": "Kološanima",
+          "book": "Poslanica Kološanima",
+          "book_abbrev": "Kol",
           "chapter": 1,
           "verse": 13
         },
         {
           "book": "Daniel",
+          "book_abbrev": "Dn",
           "chapter": 2,
           "verse": 44
         },
         {
-          "book": "Matej",
+          "book": "Evanđelje po Mateju",
+          "book_abbrev": "Mt",
           "chapter": 25,
           "verse": 34
         }
@@ -1465,77 +1735,92 @@
       "title": "Vodstvo",
       "quotes": [
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 32,
           "verse": 8
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 16,
           "verse": 9
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 25,
           "verse": 4
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 30,
           "verse": 21
         },
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 10,
           "verse": 3
         },
         {
-          "book": "Ivan",
+          "book": "Evanđelje po Ivanu",
+          "book_abbrev": "Iv",
           "chapter": 10,
           "verse": 4
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 23,
           "verse": 1
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 48,
           "verse": 15
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 143,
           "verse": 10
         },
         {
           "book": "Izlazak",
+          "book_abbrev": "Izl",
           "chapter": 13,
           "verse": 21
         },
         {
           "book": "Izlazak",
+          "book_abbrev": "Izl",
           "chapter": 13,
           "verse": 22
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 58,
           "verse": 11
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 73,
           "verse": 24
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 119,
           "verse": 133
         },
         {
           "book": "Izreke",
+          "book_abbrev": "Izr",
           "chapter": 3,
           "verse": 6
         }
@@ -1546,77 +1831,92 @@
       "title": "Buducnost",
       "quotes": [
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 8,
           "verse": 18
         },
         {
           "book": "Jeremija",
+          "book_abbrev": "Jr",
           "chapter": 33,
           "verse": 3
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 37,
           "verse": 37
         },
         {
           "book": "Otkrivenje",
+          "book_abbrev": "Otk",
           "chapter": 22,
           "verse": 5
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 65,
           "verse": 17
         },
         {
           "book": "Otkrivenje",
+          "book_abbrev": "Otk",
           "chapter": 21,
           "verse": 1
         },
         {
-          "book": "Rimljanima",
+          "book": "Poslanica Rimljanima",
+          "book_abbrev": "Rim",
           "chapter": 8,
           "verse": 28
         },
         {
-          "book": "Filipljanima",
+          "book": "Poslanica Filipljanima",
+          "book_abbrev": "Fil",
           "chapter": 1,
           "verse": 6
         },
         {
-          "book": "1. Korinćanima",
+          "book": "Prva poslanica Korinćanima",
+          "book_abbrev": "1Kor",
           "chapter": 2,
           "verse": 9
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 126,
           "verse": 5
         },
         {
-          "book": "Psalam",
+          "book": "Psalmi",
+          "book_abbrev": "Ps",
           "chapter": 130,
           "verse": 7
         },
         {
           "book": "Izaija",
+          "book_abbrev": "Iz",
           "chapter": 60,
           "verse": 1
         },
         {
-          "book": "2. Korinćanima",
+          "book": "Druga poslanica Korinćanima",
+          "book_abbrev": "2Kor",
           "chapter": 4,
           "verse": 17
         },
         {
           "book": "Otkrivenje",
+          "book_abbrev": "Otk",
           "chapter": 21,
           "verse": 3
         },
         {
           "book": "Otkrivenje",
+          "book_abbrev": "Otk",
           "chapter": 21,
           "verse": 4
         }
